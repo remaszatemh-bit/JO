@@ -1,0 +1,17 @@
+# الملفات السرية — لا ترفع أبداً
+.env
+.env.local
+.env.*.local
+
+# ملفات النظام
+config.local.js
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# ملفات المحرر
+.vscode/
+
+# ملفات مؤقتة
+_chk_*.js
+*.log
